@@ -1,0 +1,20 @@
+
+.nav-wrapper{
+    background-color: #e94c2e !important;
+    min-height: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+   }
+   main{
+    min-height: 85vh;
+}
+h1{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size:x-large;
+color: #e94c2e;
+
+}
+.curseur{ 
+    cursor: url("../img/image.png"),auto !important;
+}
