@@ -18,3 +18,9 @@ color: #e94c2e;
 .curseur{ 
     cursor: url("../img/image.png"),auto !important;
 }
+.page-footer{
+    background-color: #b9ce00 !important;
+}
+.footer-2{
+    background-color: #b9ce00 !important;
+}
