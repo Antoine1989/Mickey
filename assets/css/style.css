@@ -24,3 +24,38 @@ color: #e94c2e;
 .footer-2{
     background-color: #b9ce00 !important;
 }
+.bg-vert{
+    background-color: #b9ce00 !important;
+    color: aliceblue;
+}
+
+
+/* label color */
+.input-field label {
+    color: #e94c2e;
+   }
+   /* label focus color */
+   .input-field input:focus + label
+   {
+    color:#e94c2e;
+   }
+
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+    border-bottom: 1px solid #e94c2e;
+    box-shadow: 0 1px 0 0 #e94c2e;
+   }
+   /* valid color */
+   .input-field input[type=text].valid {
+    border-bottom: 1px solid #e94c2e;
+    box-shadow: 0 1px 0 0 #e94c2e;
+   }
+   /* invalid color */
+   .input-field input[type=text].invalid {
+    border-bottom: 1px solid #e94c2e;
+    box-shadow: 0 1px 0 0 #e94c2e;
+   }
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+    color: #e94c2e;
+   }
